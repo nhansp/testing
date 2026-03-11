@@ -1,0 +1,36 @@
+{
+  "response": [
+    {
+      "maintainer": "nhansp",
+      "currently_maintained": true,
+      "oem": "Google",
+      "device": "Pixel 7a",
+      "filename": "EvolutionX-16.0-20260311-lynx-11.6.2-Unofficial.zip",
+      "download": "https://cdn.evolution-x.org/lynx/16/EvolutionX-16.0-20260307-lynx-11.6.2-Official.zip/download",
+      "timestamp": 1773226445,
+      "md5": "e9301d90201514454589a0691b12fd44",
+      "sha256": "c71f2b522ae377d5017abb6613d027d9f22d83d09f10e582c33ed74bc7980e8f",
+      "size": 3030772440,
+      "version": "11.6.2",
+      "buildtype": "userdebug",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "nhansp",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "vendor_kernel_boot",
+        "vendor_boot"
+      ],
+      "extra_images": [
+        "init_boot"
+      ],
+      "chunked": true,
+      "chunk_urls": [
+        "https://github.com/nhansp/testing/releases/latest/download/EvolutionX-16.0-20260311-lynx-11.6.2-Unofficial.zip.001",
+        "https://github.com/nhansp/testing/releases/latest/download/EvolutionX-16.0-20260311-lynx-11.6.2-Unofficial.zip.002"
+      ]
+    }
+  ]
+}
